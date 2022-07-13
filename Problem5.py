@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 13 11:00:50 2022
 
-@author: HP
+@author: Mohoshina Toma
 """
 
 class Node:
