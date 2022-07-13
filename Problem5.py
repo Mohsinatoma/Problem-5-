@@ -76,14 +76,6 @@ class LinkedList:
             itr1 = itr1.next
         return  (itr == None and itr1 == None)
             
-        
-        
-        
-      
-       
-        
-
-
 
 if __name__ == '__main__':
     ll = LinkedList()
